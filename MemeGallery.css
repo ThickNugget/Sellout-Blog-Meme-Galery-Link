@@ -1,0 +1,15 @@
+img {
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+}
+h1 {
+    font-family: 'IBM Plex Sans';
+    margin: 1.66%;
+    font-size: 2vw;
+    font-weight: 900;
+    text-transform: uppercase;
+    border-bottom: 2px solid black;
+    width: 30%;
+    padding-bottom: 2%;
+}
